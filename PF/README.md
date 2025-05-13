@@ -28,6 +28,8 @@ Cambios en esta versión:
 - Botón para reiniciar los votos.
 - Posibilidad de escoger el número de opciones.
 - `Console Clear`, que la consola borre lo anterior al haber una nueva entrada, para resultados más limpios.
+- Dos o más opciones para una pregunta no pueden ser iguales.
+- No se puede ingresar como contenido a una pregunta u opción, "espacio", lo toma como inválido, al igual que si no se ingresa nada.
 
 Uso de PF en este código:
 En este proyecto usamos programación funcional al organizar todo en funciones que hacen tareas específicas y al trabajar los datos sin modificarlos directamente. También usamos formas más modernas de recorrer listas, como map y forEach, que hacen que el código sea más claro y ordenado.
