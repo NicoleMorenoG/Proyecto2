@@ -23,8 +23,8 @@ Instrucciones de uso:
 A tomar en cuenta:
 Se decidió hacer que el número de preguntas (8) y de opciones (2) sean fijos, pero que todo el contenido de éstos, puedan ser definidos por el usuario. Si se desea reutilizar el código para usarlo con encuestas con otro número de preguntas u opciones, se puede modificar el código, o también se puede cambiar para que al inicio pregunte la cantidad de cada uno, y cree todo en base a ello.
 
-Elementos y propiedades de POO en este código:
-Clases, objetos, encapsulamiento, abstracción, modularidad, métodos, propiedades o atributos, reutilización de código, interacción entre objetos.
+Uso de POO en este código:
+Este proyecto usa clases para organizar el código de manera sencilla. La clase Encuesta guarda las preguntas y los votos, mientras que la clase GestorEncuesta ayuda a crear la encuesta y a gestionar el proceso de votación. De esta forma, se divide el trabajo en partes pequeñas y fáciles de manejar, haciendo el código más claro y organizado.
 
 Dentro del código puedes encontrar comentarios para comprender cada sección y el uso de la programación.
 
