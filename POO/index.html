@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<link rel="icon" href="data:,">
+<title>Sistema Creación de Encuestas y Votación - POO </title>
+</head>
+<body>
+<h1>Bienvenido al sistema de creación de encuestas visualizado por Consola</h1>
+<!--Agregamos instrucciones para que un usuario sin conocimientos previos sobre la consola e inspeccionar una web, pueda participar-->
+<p>Instrucciones:</p>
+<ul>
+    <li>Importante: Primero que todo, presiona F12 y selecciona la opción "consola", para que te vaya mostrando en tiempo real lo que vas creando y resultados.</li>
+    <li>Si lo hiciste correctamente dirá "Live reload enabled". Con esto verás todo en tiempo real.</li>
+    <li>Cuando estés listo, presiona el botón "Crear Encuesta" e introduce 8 preguntas y 2 opciones para cada pregunta.</li> 
+    <li>Después de finalizar la creación, aparecerá en la consola</li>
+    <li>Luego usando el botón "Votar" pueden ingresar sus respuestas todos los participantes</li>
+    <li>Luego de que termine cada votante, se actualizarán los resultados con cantidad y porcentajes! </li>
+</ul>
+
+<button onclick="gestorEncuesta.crearEncuesta()">Crear Encuesta</button>
+<button onclick="gestorEncuesta.votar()">Votar</button>
+
+<script src="index.js"></script>
+</body>
+</html>
