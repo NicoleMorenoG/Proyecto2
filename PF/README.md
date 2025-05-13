@@ -1,1 +1,38 @@
+# Proyecto2 - PF
+Sistema de Encuestas - Proyecto 2 | PROGRAMACIÓN FUNCIONAL
+
+Este proyecto consiste en un sistema interactivo de creación de encuestas y votación, que funciona desde la consola del navegador. Fue desarrollado usando Programación Funcional (PF) con JavaScript.
+
+Cómo funciona?
+El sistema se visualiza a través del navegador pero toda la interacción ocurre en la consola. Por eso, es importante seguir los pasos detallados abajo.
+
+Instrucciones de uso:
+1. Abre el archivo `index.html` en tu navegador.
+2. Presiona `F12` para abrir las herramientas del desarrollador.
+3. Selecciona la pestaña `Consola`.
+4. Presiona el botón `Crear Encuesta`.
+5. Se te pedirá que ingreses 8 preguntas y elijas la cantidad de opciones que desees (mínimo 2).
+6. Luego, presiona el botón `Votar` para comenzar la votación.
+7. Cada persona podrá ingresar sus respuestas una a una.
+8. Al final de cada votación, se mostrará un resumen en consola con:
+   - Cantidad de votos por opción.
+   - Porcentaje de votación por opción.
+9. Si se desea resetear la votación, apretar el botón `Reiniciar Votos`
+   
+💡 Consejo: Cada votante debe cerrar la ventana de votación para que otro pueda participar desde cero.
+
+A tomar en cuenta:
+A diferencia de la versión en POO, aquí dejamos abierta la opción para que el usuario indique la cantidad de opciones para cada pregunta, aunque mantuvimos el número de preguntas en 8. El número de preguntas igualmente se puede cambiar directamente en el código, o también se puede programar para que consulte el número de preguntas antes de crear la encuesta.
+
+Cambios en esta versión:
+- Botón para reiniciar los votos.
+- Posibilidad de escoger el número de opciones.
+- `Console Clear`, que la consola borre lo anterior al haber una nueva entrada, para resultados más limpios.
+
+Elementos y propiedades de PF en este código:
+Uso de funciones, funciones como bloques reutilizables, uso de arrays y estructuras inmutables (hasta cierto punto), uso de forEach, separación entre datos y lógica.
+
+Dentro del código puedes encontrar comentarios para comprender cada sección y el uso de la programación.
+
+Nicole Moreno. @NicoleMorenoG
 
