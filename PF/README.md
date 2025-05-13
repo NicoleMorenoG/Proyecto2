@@ -34,5 +34,7 @@ Cambios en esta versión:
 Uso de PF en este código:
 En este proyecto usamos programación funcional al organizar todo en funciones que hacen tareas específicas y al trabajar los datos sin modificarlos directamente. También usamos formas más modernas de recorrer listas, como map y forEach, que hacen que el código sea más claro y ordenado.
 
+Dentro del código puedes encontrar comentarios para comprender cada sección y el uso de la programación.
+
 Nicole Moreno. @NicoleMorenoG
 
