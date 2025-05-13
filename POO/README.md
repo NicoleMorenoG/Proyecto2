@@ -28,4 +28,3 @@ Clases, objetos, encapsulamiento, abstracción, modularidad, métodos, propiedad
 
 Nicole Moreno. @NicoleMorenoG
 
-Nicole Moreno. @NicoleMorenoG
