@@ -26,5 +26,7 @@ Se decidió hacer que el número de preguntas (8) y de opciones (2) sean fijos, 
 Elementos y propiedades de POO en este código:
 Clases, objetos, encapsulamiento, abstracción, modularidad, métodos, propiedades o atributos, reutilización de código, interacción entre objetos.
 
+Dentro del código puedes encontrar comentarios para comprender cada sección y el uso de la programación.
+
 Nicole Moreno. @NicoleMorenoG
 
