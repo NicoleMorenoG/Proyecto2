@@ -29,10 +29,8 @@ Cambios en esta versión:
 - Posibilidad de escoger el número de opciones.
 - `Console Clear`, que la consola borre lo anterior al haber una nueva entrada, para resultados más limpios.
 
-Elementos y propiedades de PF en este código:
-Uso de funciones, funciones como bloques reutilizables, uso de arrays y estructuras inmutables (hasta cierto punto), uso de forEach, separación entre datos y lógica.
-
-Dentro del código puedes encontrar comentarios para comprender cada sección y el uso de la programación.
+Uso de PF en este código:
+En este proyecto usamos programación funcional al organizar todo en funciones que hacen tareas específicas y al trabajar los datos sin modificarlos directamente. También usamos formas más modernas de recorrer listas, como map y forEach, que hacen que el código sea más claro y ordenado.
 
 Nicole Moreno. @NicoleMorenoG
 
